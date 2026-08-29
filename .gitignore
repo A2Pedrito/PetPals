@@ -427,3 +427,19 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# ==========================================
+# Frontend (React / Vite / Node)
+# ==========================================
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.env.local
+frontend/.env.development.local
+
+# ==========================================
+# Secretos y Entornos de Backend (.NET)
+# ==========================================
+backend/**/appsettings.Development.json
+backend/**/appsettings.Production.json
+!backend/**/appsettings.example.json
