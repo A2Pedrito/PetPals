@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Domain/PetPals.Domain.csproj" Id="3b0950cd-c898-4935-97e9-4d3d0e152e09" />
+  <Project Path="PetPals.Application/PetPals.Application.csproj" Id="093264fc-f62f-4e39-a79a-8d23cdaa7323" />
+  <Project Path="PetPals.Persistence/PetPals.Infrastructure.csproj" Id="ce5ddfa5-a889-4446-b602-00c546f110d0" />
+  <Project Path="PetPals.Presentation/PetPals.Presentation.csproj" Id="656bb460-0ebc-43c4-b4cf-5f83c2e6b6c3" />
+</Solution>
